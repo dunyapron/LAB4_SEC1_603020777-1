@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab4Sec1UI</string>
+    <string-array name="subjectName_array">
+        <item>Select Subject</item>
+        <item>342 267 Mobile Device Programming</item>
+        <item>342 236 Web Application Programming</item>
+        <item>342 233 Database Analysis and Design</item>
+    </string-array>
+</resources>
